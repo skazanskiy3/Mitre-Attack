@@ -8,8 +8,8 @@
 3. Lombok Plugin will ask to "Attach Annotations", click on that
 4. Download JDK 11: https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html
 5. Restart IntelliJ
-6. Find the IntelliJ menu bar then "File" -> "Open" -> Navigate to "Mitre-Attack/mitre-attack" and Open "build.gradle" and click "Build as Project"
-7. Once project is opened, run Gradle import (red arrow bellow)
+6. Find the IntelliJ menu bar then "File" -> "Open" -> Navigate to "Mitre-Attack/mitre-attack" and open "build.gradle" and click "Build as Project"
+7. Once project is opened run Gradle import (red arrow bellow)
 
 ![Gradle Bootrun](./images/import.png)
 
